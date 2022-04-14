@@ -4,7 +4,7 @@ import gmaps
 from datetime import datetime
 import googlemaps
 
-apikey = 'AIzaSyAMzJl570972YVjUtMxnkXZjwAe7o7O764'  # AIzaSyChzcwFZa9nEDVTC-p7jzi_4voExg-0-VA
+apikey = 'ApiKey'
 
 address_list = ["Yumbe, Uganda", "Arua, Uganda", "Nebbi, Uganda",
                 "Adjumani, Uganda", "Gulu, Uganda", "Kitgum, Uganda", "Oyam, Uganda", "Lira, Uganda",
